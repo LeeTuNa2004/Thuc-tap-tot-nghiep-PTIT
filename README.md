@@ -2,7 +2,7 @@
 
 Lưu trữ LAB GNS3 thực tập tốt nghiệp PTIT
 
-![So do Topology GNS3](topology.png)
+![So do Topology GNS3](Topology-1.png)
 
 ## 🚀 Giới thiệu dự án
 
